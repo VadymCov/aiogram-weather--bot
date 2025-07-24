@@ -2,7 +2,7 @@
 
 A simple and fast Telegram bot that provides up-to-date weather information in any city in the world.
 
-![Demo bot](./image/bot-weather.jpg)
+![Demo bot](./image/bot_weather.jpg)
 
 ## ✨ Features
 
